@@ -15,7 +15,6 @@
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
   - [Contribution](#contribution)
-  - [Blog post](#blog-post)
  
 
 
@@ -196,7 +195,4 @@ Video to gif [tool](https://ezgif.com/)
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-## Blog post
-
-The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
 
